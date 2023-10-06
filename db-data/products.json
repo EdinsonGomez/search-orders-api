@@ -1,0 +1,152 @@
+[
+  {
+      "id": 1,
+      "name": "Producto 1",
+      "reference": "ABC123"
+  },
+  {
+      "id": 2,
+      "name": "Producto 2",
+      "reference": "DEF456"
+  },
+  {
+      "id": 3,
+      "name": "Producto 3",
+      "reference": "GHI789"
+  },
+  {
+      "id": 4,
+      "name": "Producto 4",
+      "reference": "JKL012"
+  },
+  {
+      "id": 5,
+      "name": "Producto 5",
+      "reference": "MNO345"
+  },
+  {
+      "id": 6,
+      "name": "Producto 6",
+      "reference": "PQR678"
+  },
+  {
+      "id": 7,
+      "name": "Producto 7",
+      "reference": "STU901"
+  },
+  {
+      "id": 8,
+      "name": "Producto 8",
+      "reference": "VWX234"
+  },
+  {
+      "id": 9,
+      "name": "Producto 9",
+      "reference": "YZA567"
+  },
+  {
+      "id": 10,
+      "name": "Producto 10",
+      "reference": "BCD890"
+  },
+  {
+      "id": 11,
+      "name": "Producto 11",
+      "reference": "EFG123"
+  },
+  {
+      "id": 12,
+      "name": "Producto 12",
+      "reference": "HIJ456"
+  },
+  {
+      "id": 13,
+      "name": "Producto 13",
+      "reference": "KLM789"
+  },
+  {
+      "id": 14,
+      "name": "Producto 14",
+      "reference": "NOP012"
+  },
+  {
+      "id": 15,
+      "name": "Producto 15",
+      "reference": "QRS345"
+  },
+  {
+      "id": 16,
+      "name": "Producto 16",
+      "reference": "TUV678"
+  },
+  {
+      "id": 17,
+      "name": "Producto 17",
+      "reference": "WXY901"
+  },
+  {
+      "id": 18,
+      "name": "Producto 18",
+      "reference": "ZAB234"
+  },
+  {
+      "id": 19,
+      "name": "Producto 19",
+      "reference": "CDE567"
+  },
+  {
+      "id": 20,
+      "name": "Producto 20",
+      "reference": "FGH890"
+  },
+  {
+      "id": 21,
+      "name": "Producto 21",
+      "reference": "IJK123"
+  },
+  {
+      "id": 22,
+      "name": "Producto 22",
+      "reference": "LMN456"
+  },
+  {
+      "id": 23,
+      "name": "Producto 23",
+      "reference": "OPQ789"
+  },
+  {
+      "id": 24,
+      "name": "Producto 24",
+      "reference": "RST012"
+  },
+  {
+      "id": 25,
+      "name": "Producto 25",
+      "reference": "UVW345"
+  },
+  {
+      "id": 26,
+      "name": "Producto 26",
+      "reference": "XYZ678"
+  },
+  {
+      "id": 27,
+      "name": "Producto 27",
+      "reference": "123ABC"
+  },
+  {
+      "id": 28,
+      "name": "Producto 28",
+      "reference": "456DEF"
+  },
+  {
+      "id": 29,
+      "name": "Producto 29",
+      "reference": "789GHI"
+  },
+  {
+      "id": 30,
+      "name": "Producto 30",
+      "reference": "012JKL"
+  }
+]
