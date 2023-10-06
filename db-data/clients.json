@@ -1,0 +1,107 @@
+[
+  {
+      "id": 1,
+      "name": "Juan",
+      "last_name": "Pérez",
+      "document_type": "CEDULA_CIUDADANIA",
+      "document": 1234
+  },
+  {
+      "id": 2,
+      "name": "María",
+      "last_name": "Gómez",
+      "document_type": "CEDULA_EXTRANJERIA",
+      "document": 5678
+  },
+  {
+      "id": 3,
+      "name": "Carlos",
+      "last_name": "Rodríguez",
+      "document_type": "PASAPORTE",
+      "document": 9012
+  },
+  {
+      "id": 4,
+      "name": "Laura",
+      "last_name": "Sánchez",
+      "document_type": "CEDULA_CIUDADANIA",
+      "document": 3456
+  },
+  {
+      "id": 5,
+      "name": "Pedro",
+      "last_name": "López",
+      "document_type": "CEDULA_EXTRANJERIA",
+      "document": 7890
+  },
+  {
+      "id": 6,
+      "name": "Isabel",
+      "last_name": "Martínez",
+      "document_type": "PASAPORTE",
+      "document": 2345
+  },
+  {
+      "id": 7,
+      "name": "Javier",
+      "last_name": "Fernández",
+      "document_type": "CEDULA_CIUDADANIA",
+      "document": 6789
+  },
+  {
+      "id": 8,
+      "name": "Sara",
+      "last_name": "Pérez",
+      "document_type": "CEDULA_EXTRANJERIA",
+      "document": 12345
+  },
+  {
+      "id": 9,
+      "name": "Alejandro",
+      "last_name": "Rodríguez",
+      "document_type": "PASAPORTE",
+      "document": 67890
+  },
+  {
+      "id": 10,
+      "name": "Carmen",
+      "last_name": "García",
+      "document_type": "CEDULA_CIUDADANIA",
+      "document": 23456
+  },
+  {
+      "id": 11,
+      "name": "Luis",
+      "last_name": "González",
+      "document_type": "CEDULA_EXTRANJERIA",
+      "document": 78901
+  },
+  {
+      "id": 12,
+      "name": "Ana",
+      "last_name": "Martínez",
+      "document_type": "CEDULA_CIUDADANIA",
+      "document": 34567
+  },
+  {
+      "id": 13,
+      "name": "Elena",
+      "last_name": "Sánchez",
+      "document_type": "PASAPORTE",
+      "document": 89012
+  },
+  {
+      "id": 14,
+      "name": "Ricardo",
+      "last_name": "Fernández",
+      "document_type": "CEDULA_EXTRANJERIA",
+      "document": 45678
+  },
+  {
+      "id": 15,
+      "name": "Marta",
+      "last_name": "López",
+      "document_type": "CEDULA_CIUDADANIA",
+      "document": 12345
+  }
+]
